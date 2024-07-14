@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card-box:hover{
+box-shadow: 0px 0px 5px grey;
+}
+.underline{
+text-decoration: none;
+font-size: 16px;
+color: #0B72E7;
+font-weight: 450;
+}
+.underline:hover{
+text-decoration: underline;
+color: #525A76;
+}
+.heading{
+    color: #525A76;
+    font-weight: 600;
+}
